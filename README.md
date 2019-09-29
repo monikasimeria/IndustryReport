@@ -1,0 +1,2 @@
+# IndustryReport
+for exercise purpose
